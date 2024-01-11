@@ -1,0 +1,28 @@
+^C:\USERS\DELL\DOWNLOADS\FLUTTER-UI-PLANT-APP-MAIN (1)\FLUTTER-UI-PLANT-APP-MAIN (1)\PLANTS_FLUTTER\BUILD\WINDOWS\X64\CMAKEFILES\175DEC44F542C90979F46B2AA38E1532\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter_windows_3.16.5-stable\flutter "PROJECT_DIR=C:\Users\dell\Downloads\flutter-ui-plant-app-main (1)\flutter-ui-plant-app-main (1)\plants_flutter" FLUTTER_ROOT=C:\flutter_windows_3.16.5-stable\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\dell\Downloads\flutter-ui-plant-app-main (1)\flutter-ui-plant-app-main (1)\plants_flutter\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\dell\Downloads\flutter-ui-plant-app-main (1)\flutter-ui-plant-app-main (1)\plants_flutter" "FLUTTER_TARGET=C:\Users\dell\Downloads\flutter-ui-plant-app-main (1)\flutter-ui-plant-app-main (1)\plants_flutter\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC8zZjNlNTYwMjM2NTM5YjdlMjcwMmY1YWM3OTBiMmE0NjkxYjMyZDQ5Lw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\dell\Downloads\flutter-ui-plant-app-main (1)\flutter-ui-plant-app-main (1)\plants_flutter\.dart_tool\package_config.json" C:/flutter_windows_3.16.5-stable/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DELL\DOWNLOADS\FLUTTER-UI-PLANT-APP-MAIN (1)\FLUTTER-UI-PLANT-APP-MAIN (1)\PLANTS_FLUTTER\BUILD\WINDOWS\X64\CMAKEFILES\A81669793CF49755F301C07358D9A4A1\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DELL\DOWNLOADS\FLUTTER-UI-PLANT-APP-MAIN (1)\FLUTTER-UI-PLANT-APP-MAIN (1)\PLANTS_FLUTTER\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/dell/Downloads/flutter-ui-plant-app-main (1)/flutter-ui-plant-app-main (1)/plants_flutter/windows" "-BC:/Users/dell/Downloads/flutter-ui-plant-app-main (1)/flutter-ui-plant-app-main (1)/plants_flutter/build/windows/x64" --check-stamp-file "C:/Users/dell/Downloads/flutter-ui-plant-app-main (1)/flutter-ui-plant-app-main (1)/plants_flutter/build/windows/x64/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

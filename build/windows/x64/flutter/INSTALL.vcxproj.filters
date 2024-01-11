@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dell\Downloads\flutter-ui-plant-app-main (1)\flutter-ui-plant-app-main (1)\plants_flutter\build\windows\x64\CMakeFiles\a81669793cf49755f301c07358d9a4a1\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{933FB378-ABFF-3B99-B015-605063388EF5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1 @@
+ C:\\Users\\dell\\Downloads\\flutter-ui-plant-app-main\ (1)\\plants_flutter\\.dart_tool\\flutter_build\\a155901c3dff31ab402ab54b372544be\\native_assets.yaml: 

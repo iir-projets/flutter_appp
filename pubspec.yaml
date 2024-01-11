@@ -1,0 +1,41 @@
+name: flutter_onboarding
+description: A new Flutter project.
+version: 1.0.0
+
+environment:
+  sdk: ">=2.16.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  animated_bottom_navigation_bar: ^0.3.3
+  flutter_launcher_icons: ^0.9.0  
+  page_transition: ^2.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/sauge.jpg
+    - assets/images/menthe.jpg
+    - assets/images/lavande.jpg
+    - assets/images/guimauve.jpg
+    - assets/images/romarin.jpg
+    - assets/images/origan.jpg
+    - assets/images/millepertuis.jpg
+    - assets/images/sarriette.jpg
+    - assets/images/valeriane-officinale.jpg
+    - assets/images/Login.jpg
+    - assets/images/aaa.jpg
+    - assets/images/ppp.jpg
+    - assets/images/jj.jpg
+    - assets/images/Cart.jpg
+    - assets/images/bbb.jpg
+
+
+

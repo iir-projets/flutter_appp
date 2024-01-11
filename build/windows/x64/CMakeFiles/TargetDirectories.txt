@@ -1,0 +1,10 @@
+C:/Users/dell/Downloads/flutter-ui-plant-app-main (1)/flutter-ui-plant-app-main (1)/plants_flutter/build/windows/x64/CMakeFiles/INSTALL.dir
+C:/Users/dell/Downloads/flutter-ui-plant-app-main (1)/flutter-ui-plant-app-main (1)/plants_flutter/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+C:/Users/dell/Downloads/flutter-ui-plant-app-main (1)/flutter-ui-plant-app-main (1)/plants_flutter/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+C:/Users/dell/Downloads/flutter-ui-plant-app-main (1)/flutter-ui-plant-app-main (1)/plants_flutter/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/dell/Downloads/flutter-ui-plant-app-main (1)/flutter-ui-plant-app-main (1)/plants_flutter/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/dell/Downloads/flutter-ui-plant-app-main (1)/flutter-ui-plant-app-main (1)/plants_flutter/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/dell/Downloads/flutter-ui-plant-app-main (1)/flutter-ui-plant-app-main (1)/plants_flutter/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+C:/Users/dell/Downloads/flutter-ui-plant-app-main (1)/flutter-ui-plant-app-main (1)/plants_flutter/build/windows/x64/runner/CMakeFiles/plants_flutter.dir
+C:/Users/dell/Downloads/flutter-ui-plant-app-main (1)/flutter-ui-plant-app-main (1)/plants_flutter/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+C:/Users/dell/Downloads/flutter-ui-plant-app-main (1)/flutter-ui-plant-app-main (1)/plants_flutter/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir

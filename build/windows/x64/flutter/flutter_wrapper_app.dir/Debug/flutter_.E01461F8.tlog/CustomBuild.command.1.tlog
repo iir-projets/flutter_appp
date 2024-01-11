@@ -1,0 +1,10 @@
+^C:\USERS\DELL\DOWNLOADS\FLUTTER-UI-PLANT-APP-MAIN (1)\FLUTTER-UI-PLANT-APP-MAIN (1)\PLANTS_FLUTTER\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/dell/Downloads/flutter-ui-plant-app-main (1)/flutter-ui-plant-app-main (1)/plants_flutter/windows" "-BC:/Users/dell/Downloads/flutter-ui-plant-app-main (1)/flutter-ui-plant-app-main (1)/plants_flutter/build/windows/x64" --check-stamp-file "C:/Users/dell/Downloads/flutter-ui-plant-app-main (1)/flutter-ui-plant-app-main (1)/plants_flutter/build/windows/x64/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
